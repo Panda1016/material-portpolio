@@ -17,6 +17,11 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "react-typed": "^1.2.0"
+    "react-typed": "^1.2.0"
+    "react-typed": "^1.2.0"
+    "react-typed": "^1.2.0"
+    "react-typed": "^1.2.0"
+    "react-typed": "^1.2.0"
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
